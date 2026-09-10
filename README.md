@@ -13,6 +13,25 @@ Adjust the feature list above to match what's actually shipped — this is a sta
 
 ## Screenshots
 
+## MENU GREY STRUCTURE
+<img width="585" height="1266" alt="IMG_4958" src="https://github.com/user-attachments/assets/5f04f3af-c54a-47c5-bc4d-6e8ea2cacd6e" />
+
+<img width="585" height="1266" alt="IMG_4959" src="https://github.com/user-attachments/assets/969b5455-802f-42e6-8326-5edf438953a9" />
+
+## VENDOR CARD
+<img width="585" height="1266" alt="IMG_4960" src="https://github.com/user-attachments/assets/ec495ee4-09f7-4f19-be0c-3a27ff74fe7f" />
+
+## MENU FINISHING
+
+<img width="585" height="1266" alt="IMG_4961" src="https://github.com/user-attachments/assets/50dfe340-801b-4844-8bd3-4b1fa5165297" />
+
+
+## SEARCH
+
+<img width="585" height="1266" alt="IMG_4962" src="https://github.com/user-attachments/assets/6cf03362-a6c3-4f5f-b6c3-c8c11f3a4609" />
+
+
+
 
 ## Tech Stack
 Framework: React Native (Expo)
