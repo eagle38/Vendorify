@@ -9,7 +9,7 @@ Search & filter to quickly narrow down vendors by location or category
 Vendor detail pages with photos, contact info, and service areas
 Location-aware discovery tailored to Rawalpindi/Islamabad
 
-Adjust the feature list above to match what's actually shipped — this is a starting point.
+
 
 ## Screenshots
 
