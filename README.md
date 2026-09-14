@@ -3,11 +3,11 @@
 Vendorify is a construction vendor discovery app for Rawalpindi and Islamabad, built to bring price transparency to an industry that usually runs on word-of-mouth and haggling. Think FoodPanda, but for finding and comparing construction material vendors.
 
 ## Features
-Browse vendors by category (cement, tiles, electrical, plumbing, hardware, etc.)
-Price transparency — see listed pricing up front, no need to call around
-Search & filter to quickly narrow down vendors by location or category
-Vendor detail pages with photos, contact info, and service areas
-Location-aware discovery tailored to Rawalpindi/Islamabad
+-Browse vendors by category (cement, tiles, electrical, plumbing, hardware, etc.)
+-Price transparency — see listed pricing up front, no need to call around
+-Search & filter to quickly narrow down vendors by location or category
+-Vendor detail pages with photos, contact info, and service areas
+-Location-aware discovery tailored to Rawalpindi/Islamabad
 
 
 
